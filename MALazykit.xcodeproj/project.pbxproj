@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5C38317D17296F0800BF2611 /* UIWindow+MALazykit.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C38317C17296F0800BF2611 /* UIWindow+MALazykit.m */; };
+		7034F14218981C640058A0C4 /* NSFormatter+MALazykit.m in Sources */ = {isa = PBXBuildFile; fileRef = 7034F14118981C640058A0C4 /* NSFormatter+MALazykit.m */; };
 		BF1FF8CA170C6EA900832084 /* UITabBarController+MALazykit.m in Sources */ = {isa = PBXBuildFile; fileRef = BF1FF8C9170C6EA900832084 /* UITabBarController+MALazykit.m */; };
 		BF41EA15170A6310006540E7 /* UIViewController+MALazykit.m in Sources */ = {isa = PBXBuildFile; fileRef = BF41EA14170A6310006540E7 /* UIViewController+MALazykit.m */; };
 		BF41EA9F170D0B78006540E7 /* UITableViewController+MALazykit.m in Sources */ = {isa = PBXBuildFile; fileRef = BF41EA9E170D0B78006540E7 /* UITableViewController+MALazykit.m */; };
@@ -56,6 +57,8 @@
 /* Begin PBXFileReference section */
 		5C38317B17296F0800BF2611 /* UIWindow+MALazykit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+MALazykit.h"; sourceTree = "<group>"; };
 		5C38317C17296F0800BF2611 /* UIWindow+MALazykit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+MALazykit.m"; sourceTree = "<group>"; };
+		7034F14018981C640058A0C4 /* NSFormatter+MALazykit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSFormatter+MALazykit.h"; sourceTree = "<group>"; };
+		7034F14118981C640058A0C4 /* NSFormatter+MALazykit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSFormatter+MALazykit.m"; sourceTree = "<group>"; };
 		BF1FF8C8170C6EA900832084 /* UITabBarController+MALazykit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITabBarController+MALazykit.h"; sourceTree = "<group>"; };
 		BF1FF8C9170C6EA900832084 /* UITabBarController+MALazykit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITabBarController+MALazykit.m"; sourceTree = "<group>"; };
 		BF41EA13170A6310006540E7 /* UIViewController+MALazykit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+MALazykit.h"; sourceTree = "<group>"; };
@@ -217,6 +220,8 @@
 				BFF25CEE16EF51C10089C72B /* UIActivityIndicatorView+MALazykit.m */,
 				BFA7402016DFC7D600C09C39 /* UIBarButtonItem+MALazykit.h */,
 				BFA7402116DFC7D600C09C39 /* UIBarButtonItem+MALazykit.m */,
+				7034F14018981C640058A0C4 /* NSFormatter+MALazykit.h */,
+				7034F14118981C640058A0C4 /* NSFormatter+MALazykit.m */,
 				BFED78AC171447A800745594 /* UIGestureRecognizer+MALazykit.h */,
 				BFED78AD171447A800745594 /* UIGestureRecognizer+MALazykit.m */,
 				BFA7402C16DFCDDD00C09C39 /* UIImageView+MALazykit.h */,
@@ -396,6 +401,7 @@
 			files = (
 				BFEAE1CE16DF99BC00530197 /* MAAppDelegate.m in Sources */,
 				BFEAE1CF16DF99BC00530197 /* main.m in Sources */,
+				7034F14218981C640058A0C4 /* NSFormatter+MALazykit.m in Sources */,
 				BFA7402216DFC7D600C09C39 /* UIBarButtonItem+MALazykit.m in Sources */,
 				BFA7402B16DFCD8400C09C39 /* UILabel+MALazykit.m in Sources */,
 				BFA7402E16DFCDDD00C09C39 /* UIImageView+MALazykit.m in Sources */,
